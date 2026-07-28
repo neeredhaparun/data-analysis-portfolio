@@ -4,4 +4,4 @@ This folder contains projects demonstrating data collection techniques using API
 
 ## Projects
 
-- Job Postings API Analysis
+- Collecting Job Postings using APIs
