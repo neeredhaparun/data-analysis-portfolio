@@ -1,2 +1,29 @@
-# data-analysis-portfolio
-A collection of Python-based data analysis, visualization, and data collection projects.
+# Data Analysis Portfolio
+This repository showcases my hands-on projects in Python for data analysis, visualization, API integration, web scraping, SQL.
+
+## Repository Structure
+
+```
+data-analysis-portfolio/
+│
+├── data-collection/
+```
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Dash
+- Requests
+- BeautifulSoup
+- SQL
+- Jupyter Notebook
+- OpenPyXL
+
+## Projects
+
+More projects will be added as I continue learning and building.
