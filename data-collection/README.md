@@ -5,3 +5,4 @@ This folder contains projects demonstrating data collection techniques using API
 ## Projects
 
 - Collecting Job Postings using APIs
+- Collecting average salary of skills using Web Scraping
