@@ -7,6 +7,7 @@ This repository showcases my hands-on projects in Python for data analysis, visu
 data-analysis-portfolio/
 │
 ├── data-collection/
+├── data-wrangling/
 ```
 
 ## Tools & Technologies
