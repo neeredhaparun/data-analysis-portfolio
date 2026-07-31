@@ -8,6 +8,7 @@ data-analysis-portfolio/
 │
 ├── data-collection/
 ├── data-wrangling/
+├── exploratory-data-analysis/
 ```
 
 ## Tools & Technologies
@@ -22,7 +23,6 @@ data-analysis-portfolio/
 - Requests
 - BeautifulSoup
 - SQL
-- Jupyter Notebook
 - OpenPyXL
 
 ## Projects
