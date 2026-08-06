@@ -9,6 +9,7 @@ data-analysis-portfolio/
 ├── data-collection/
 ├── data-wrangling/
 ├── exploratory-data-analysis/
+├── data-visualisation/
 ```
 
 ## Tools & Technologies
